@@ -19,9 +19,4 @@ public class AppTest {
         String result = app.greet("Pedro");
         assertEquals("Hola, Pedro!", result, "El saludo debe ser correcto");
     }
-
-    @Test 
-    void testR(){
-
-    }
 }
