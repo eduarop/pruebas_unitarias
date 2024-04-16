@@ -3,11 +3,11 @@ package com.testing;
 /*  App.java */
 
 public class App {
-    public int sum(int a, int b) {
+    public int suma(int a, int b) {
         return a + b;
     }
 
-    public String greet(String name) {
-        return "Hola, " + name + "!";
+    public String saludo(String nombre) {
+        return "Hola, " + nombre + "!";
     }
 }
